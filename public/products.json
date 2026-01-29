@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "id": "spices",
+      "title": "Spices",
+      "image": "https://raw.githubusercontent.com/Aniruddha-Sonawane/kankarej-assets/main/categories/spices.png"
+    },
+    {
+      "id": "masala",
+      "title": "Masala",
+      "image": "https://raw.githubusercontent.com/Aniruddha-Sonawane/kankarej-assets/main/categories/masala.png"
+    }
+  ],
+  "products": [
+    {
+      "id": "p1",
+      "name": "Red Chilli Powder",
+      "brand": "Kankarej",
+      "price": 120,
+      "image": "https://raw.githubusercontent.com/Aniruddha-Sonawane/kankarej-assets/main/products/chilli.png",
+      "category": "spices"
+    },
+    {
+      "id": "p2",
+      "name": "Garam Masala",
+      "brand": "Kankarej",
+      "price": 180,
+      "image": "https://raw.githubusercontent.com/Aniruddha-Sonawane/kankarej-assets/main/products/garam.png",
+      "category": "masala"
+    }
+  ]
+}

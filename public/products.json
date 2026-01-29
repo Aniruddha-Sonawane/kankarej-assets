@@ -27,6 +27,103 @@
       "price": 180,
       "image": "https://raw.githubusercontent.com/Aniruddha-Sonawane/kankarej-assets/main/products/garam.png?v=3",
       "category": "masala"
+    },
+
+    {
+      "id": "m1",
+      "name": "Masala Pack 1",
+      "brand": "Kankarej",
+      "price": 150,
+      "image": "https://raw.githubusercontent.com/Aniruddha-Sonawane/kankarej-assets/main/products/1.png",
+      "category": "masala"
+    },
+    {
+      "id": "m2",
+      "name": "Masala Pack 2",
+      "brand": "Kankarej",
+      "price": 155,
+      "image": "https://raw.githubusercontent.com/Aniruddha-Sonawane/kankarej-assets/main/products/2.png",
+      "category": "masala"
+    },
+    {
+      "id": "m3",
+      "name": "Masala Pack 3",
+      "brand": "Kankarej",
+      "price": 160,
+      "image": "https://raw.githubusercontent.com/Aniruddha-Sonawane/kankarej-assets/main/products/3.png",
+      "category": "masala"
+    },
+    {
+      "id": "m4",
+      "name": "Masala Pack 4",
+      "brand": "Kankarej",
+      "price": 165,
+      "image": "https://raw.githubusercontent.com/Aniruddha-Sonawane/kankarej-assets/main/products/4.png",
+      "category": "masala"
+    },
+    {
+      "id": "m5",
+      "name": "Masala Pack 5",
+      "brand": "Kankarej",
+      "price": 170,
+      "image": "https://raw.githubusercontent.com/Aniruddha-Sonawane/kankarej-assets/main/products/5.png",
+      "category": "masala"
+    },
+    {
+      "id": "m6",
+      "name": "Masala Pack 6",
+      "brand": "Kankarej",
+      "price": 175,
+      "image": "https://raw.githubusercontent.com/Aniruddha-Sonawane/kankarej-assets/main/products/6.png",
+      "category": "masala"
+    },
+    {
+      "id": "m7",
+      "name": "Masala Pack 7",
+      "brand": "Kankarej",
+      "price": 180,
+      "image": "https://raw.githubusercontent.com/Aniruddha-Sonawane/kankarej-assets/main/products/7.png",
+      "category": "masala"
+    },
+    {
+      "id": "m8",
+      "name": "Masala Pack 8",
+      "brand": "Kankarej",
+      "price": 185,
+      "image": "https://raw.githubusercontent.com/Aniruddha-Sonawane/kankarej-assets/main/products/8.png",
+      "category": "masala"
+    },
+    {
+      "id": "m9",
+      "name": "Masala Pack 9",
+      "brand": "Kankarej",
+      "price": 190,
+      "image": "https://raw.githubusercontent.com/Aniruddha-Sonawane/kankarej-assets/main/products/9.png",
+      "category": "masala"
+    },
+    {
+      "id": "m10",
+      "name": "Masala Pack 10",
+      "brand": "Kankarej",
+      "price": 195,
+      "image": "https://raw.githubusercontent.com/Aniruddha-Sonawane/kankarej-assets/main/products/10.png",
+      "category": "masala"
+    },
+    {
+      "id": "m11",
+      "name": "Masala Pack 11",
+      "brand": "Kankarej",
+      "price": 200,
+      "image": "https://raw.githubusercontent.com/Aniruddha-Sonawane/kankarej-assets/main/products/11.png",
+      "category": "masala"
+    },
+    {
+      "id": "m12",
+      "name": "Masala Pack 12",
+      "brand": "Kankarej",
+      "price": 205,
+      "image": "https://raw.githubusercontent.com/Aniruddha-Sonawane/kankarej-assets/main/products/12.png",
+      "category": "masala"
     }
   ]
 }
